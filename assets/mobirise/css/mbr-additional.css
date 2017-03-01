@@ -37,3 +37,20 @@
   text-align: center;
   font-size: 15px;
 }
+#ext_menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #eb6b56;
+}
+#ext_menu-d .mbr-navbar__section {
+  background: #eb6b56;
+}
+#ext_menu-d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-f P {
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+}
