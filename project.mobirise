@@ -8,9 +8,9 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "3.12.1",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
     "noImageResize": ""
   },
   "pages": {
@@ -73,7 +73,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FPV Landing <br>Pages<br>.com</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-9\">Pricing</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header3-7\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-4\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-9\">Pricing</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-c\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-4\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -92,11 +92,11 @@
                 "image": "@PROJECT_PATH@/assets/images/258961469-1-s4-v1-2000x2000.png",
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Slide 1",
+                "title": "FPV Landing Pages",
                 "showText": true,
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "The perfect way to showcase your social media awesomeness in one single place! &nbsp;",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#features1-9\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
               }
             ],
             "fullScreen": true,
@@ -138,8 +138,8 @@
           "_name": "features1",
           "_anchor": "features1-9",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -185,7 +185,7 @@
             }
           },
           "title1": "CHOOSE:",
-          "caption1": "Number 1<br>Pick ONE of the available design LAYOUTS !<br>",
+          "caption1": "Number 1<br>Pick ONE of the available design LAYOUTS !<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
@@ -209,7 +209,7 @@
             }
           },
           "title2": "GET IN TOUCH:",
-          "caption2": "Fill out the FORM below with all the required information and links to your social media.",
+          "caption2": "Fill out the FORM below with all the required information and links to your social media.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -233,7 +233,7 @@
             }
           },
           "title3": "FILL OUT THE FORM:",
-          "caption3": "Make sure to fill all of the required&nbsp;",
+          "caption3": "Make sure to fill all of the required!<br><br><br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -301,7 +301,8 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#f97352"
             }
           }
         },
@@ -322,23 +323,21 @@
             }
           },
           "_name": "msg-box4",
-          "_anchor": "msg-box4-a",
+          "_anchor": "msg-box4-c",
           "_params": {
-            "imageSize": "41",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
             "bgColor": "#f97352",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/3iCl7hrCGLg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
-            "overlay": true,
+            "bgVideoRadio": false,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "inverse": false,
@@ -352,11 +351,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "images/iphone.png"
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -371,9 +366,9 @@
             }
           },
           "headerAlign": "left",
-          "title": "Created by me, a pilot that<br>wants to share content.",
+          "title": "Created by me, a pilot that<div>wants to share content.</div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>As a frustrated content creator, FPV was the perfect way to express</p><p>myself throught video and photography! Now I just needed a better</p><p>and all-inclusive way to show all of my social media in one single</p><p>place! And that is how FLP(FPV Landing Pages was born)!</p>",
+          "text": "<p>As a frustrated content creator, FPV was the perfect outlet to express myself creatively  throught video and photography! But I just needed a better and all-inclusive way to show all of my social media in one single place! And that is how FLP(FPV Landing Pages was born)!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"dexfpv.com\" data-toolbar=\"-mbrBtnMove\">Check my personal Landing Page</a>"
         },
         {
@@ -394,8 +389,8 @@
           },
           "_anchor": "pricing-table1-3",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -470,7 +465,7 @@
             "title": "MESSAGE",
             "action": "a_espinosa@live.com",
             "alerts": {
-              "success": "Thanks for filling out form! I'll get back to you ASAP!"
+              "success": "Thanks for filling out form! I'll get back to you ASAP! :)"
             },
             "fields": {
               "name": {
@@ -490,11 +485,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Shoot me a message!"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">CONTACT US</a>"
         },
         {
           "_tags": [
