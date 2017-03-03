@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FPV Landing Pages",
-    "currentPage": "form.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -34,10 +34,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#eb6b56"
+              "background": "#d14841"
             },
             ".mbr-navbar__section": {
-              "background": "#eb6b56"
+              "background": "#d14841"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -46,7 +46,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "color": "#eb6b56",
+            "color": "#d14841",
             "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
@@ -58,7 +58,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-white.svg",
+              "src": "@PROJECT_PATH@/assets/images/logo-white-1.svg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -89,7 +89,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/258961469-1-s4-v1-2000x2000.png",
+                "image": "@PROJECT_PATH@/assets/images/cover-2000x1366.jpg",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "FPV Landing Pages",
@@ -136,6 +136,12 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#f97352"
+            }
+          },
           "_anchor": "features1-9",
           "_params": {
             "paddingTop": "1",
@@ -186,7 +192,7 @@
           },
           "title1": "CHOOSE:",
           "caption1": "Number 1<br>Pick ONE of the available design LAYOUTS !<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -210,7 +216,7 @@
           },
           "title2": "GET IN TOUCH:",
           "caption2": "Fill out the FORM below with all the required information and links to your social media.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -234,7 +240,7 @@
           },
           "title3": "FILL OUT THE FORM:",
           "caption3": "Make sure to fill all of the required!<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -258,7 +264,7 @@
           },
           "title4": "WAIT FOR IT TO COOK:",
           "caption4": "Our lead programmer along with his minion monkeys will make your AWESOME Landing Page LIVE!",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -298,13 +304,7 @@
           },
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#f97352"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -496,6 +496,13 @@
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "text-align": "center",
+              "font-size": "15px"
+            }
+          },
           "_anchor": "footer1-6",
           "_params": {
             "paddingTop": "2",
@@ -509,14 +516,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 FPV Landing Pages. &nbsp; Design by Andres Espinoza",
-          "_styles": {
-            "P": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "15px"
-            }
-          }
+          "text": "Copyright (c) 2017 FPV Landing Pages. &nbsp; Design by Andres Espinoza"
         }
       ]
     },
