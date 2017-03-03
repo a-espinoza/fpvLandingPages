@@ -144,7 +144,7 @@
           },
           "_anchor": "features1-9",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -390,7 +390,7 @@
           "_anchor": "pricing-table1-3",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
