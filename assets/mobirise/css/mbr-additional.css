@@ -10,6 +10,9 @@
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#slider-1 H1 {
+  color: #ffffff;
+}
 #features1-9 P {
   text-align: center;
   color: #f97352;
@@ -50,6 +53,50 @@
   color: #ffffff;
 }
 #footer1-f P {
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+}
+#ext_menu-g .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-g.mbr-navbar--stuck .mbr-navbar__section {
+  background: #eb6b56;
+}
+#ext_menu-g .mbr-navbar__section {
+  background: #eb6b56;
+}
+#ext_menu-g .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#msg-box5-k .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-k .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-k .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-l .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-l .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-l .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-m .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-m .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-m .mbr-article {
+  color: #ffffff;
+}
+#footer1-i P {
   color: #ffffff;
   text-align: center;
   font-size: 15px;
