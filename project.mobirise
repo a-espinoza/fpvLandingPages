@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-black-128x128.png",
     "noImageResize": ""
@@ -226,7 +226,7 @@
           },
           "title1": "PICK:",
           "caption1": "Number 1<br>Let's get a custom domain, and set it up!<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Watch Video!</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Watch Video!</a>",
           "media2": {
             "image": {
               "active": true,
@@ -498,7 +498,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"http://mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\">dexfpv.com</p><p class=\"mbr-contacts__text\">scudrnr.com</p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -635,8 +635,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\nEmail: info@fpvlandingpages.com<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><strong>dexfpv.com</strong></p><ul class=\"mbr-contacts__list\"><li>capitolquads.com</li><li>marylandquadracers.com</li><li>secretweapondrones.com</li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"http://mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\">dexfpv.com</p><p class=\"mbr-contacts__text\">scudrnr.com</p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "a_espinosa@live.com",
@@ -755,31 +755,6 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
-          "_styles": {},
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video1",
-          "_anchor": "video1-j",
-          "_params": {
-            "bgColor": "#252525",
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Cut down the development time with drag-and-drop website builder."
-        },
-        {
           "_styles": {
             ".mbr-header__text": {
               "color": "#ffffff"
@@ -826,7 +801,7 @@
             },
             "video": {
               "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://youtu.be/awcfi4XRwgA",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -834,130 +809,10 @@
             }
           },
           "headerAlign": "left",
-          "title": "VIDEO EMBED",
+          "title": "Step 1: Get your Custom Domain",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-l",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "headerAlign": "left",
-          "title": "VIDEO EMBED",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-m",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#3c3c3c",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
-            },
-            "video": {
-              "active": true,
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "headerAlign": "left",
-          "title": "VIDEO EMBED",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television. Mobirise provides a support for YouTube and Vimeo that allow you to liven up your sites.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+          "text": "<p>In this video, I explain how to get your custom domain, and set the required permission for FPV Landing Pages to upload your website.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https:/domain.google.com\" data-toolbar=\"-mbrBtnMove\">Google Domain</a>"
         },
         {
           "_tags": [
@@ -977,7 +832,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\nEmail: hello@fpvlandingpages.com<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"http://mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\">dexfpv.com</p><p class=\"mbr-contacts__text\">scudrnr.com</p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
