@@ -83,7 +83,7 @@
           ],
           "_name": "slider",
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "paddingTop": 3,
             "paddingBottom": 3,
             "slides": [
@@ -91,6 +91,8 @@
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/dsc00615-2000x1125.jpg",
                 "contentAlign": "center",
+                "overlay": false,
+                "overlayColor": "#222222",
                 "showTitle": true,
                 "title": "FPV Landing Pages",
                 "showText": true,
@@ -100,7 +102,7 @@
               }
             ],
             "fullScreen": true,
-            "bgColor": "#27aae0",
+            "bgColor": "#c1c1c1",
             "showBullets": true
           },
           "_anchor": "slider-1",
