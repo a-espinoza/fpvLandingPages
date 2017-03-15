@@ -101,9 +101,9 @@
                 "showTitle": true,
                 "title": "FPV Landing Pages",
                 "showText": true,
-                "text": "<i>The perfect way to showcase your all your social media awesomeness</i><br><i> in one &nbsp;place! &nbsp;</i>",
+                "text": "<i>Attract more traffic to your social media with an AWESOME LANDING PAGE!&nbsp;</i>",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#features1-9\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
               },
               {
                 "active": false,
@@ -114,9 +114,9 @@
                 "showTitle": true,
                 "title": "FPV Landing Pages",
                 "showText": true,
-                "text": "<i>The perfect way to showcase your all your social media awesomeness</i><br><i> in one &nbsp;place! &nbsp;</i>",
+                "text": ":)",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#features1-9\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
               },
               {
                 "active": true,
@@ -128,9 +128,9 @@
                 "showTitle": true,
                 "title": "FPV Landing Pages",
                 "showText": true,
-                "text": "<i>The perfect way to showcase your all your social media awesomeness</i><br><i> in one &nbsp;place! &nbsp;</i>",
+                "text": "<i>The perfect solution to showcase all your social media awesomeness</i><br><i> in one &nbsp;place! &nbsp;</i>",
                 "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#features1-9\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#msg-box4-c\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
               }
             ],
             "fullScreen": true,
@@ -224,8 +224,8 @@
               "size": 0
             }
           },
-          "title1": "CHOOSE:",
-          "caption1": "Number 1<br>Let's get your custom domain, and set it up!<br><br>",
+          "title1": "PICK:",
+          "caption1": "Number 1<br>Let's get a custom domain, and set it up!<br><br>",
           "button1": "<a data-app-btn=\"true\" href=\"1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Watch Video!</a>",
           "media2": {
             "image": {
@@ -249,7 +249,7 @@
             }
           },
           "title2": "GET IN TOUCH:",
-          "caption2": "Let's get your info in, and start setting up your new Landing Page!<br><br>",
+          "caption2": "Send us your info , and we will start setting up your new Landing Page!<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"http://mailto:hello@fpvlandingpages.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">email the  coding monkey</a>",
           "media3": {
             "image": {
@@ -273,7 +273,7 @@
             }
           },
           "title3": "REVISIONS:",
-          "caption3": "Monkeys started coding! It is time to check our progress and do some revisions!<br><br>",
+          "caption3": "Monkeys will start the coding! And it is time to check our progress, and make some revisions!<br>",
           "button3": "<a data-app-btn=\"true\" href=\"1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">N/A</a>",
           "media4": {
             "image": {
@@ -360,11 +360,11 @@
           "_anchor": "msg-box4-c",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00668-2000x1125.jpg",
             "bgColor": "#d14841",
             "bgColorRadio": true,
             "bgVideo": {
@@ -404,9 +404,9 @@
             }
           },
           "headerAlign": "left",
-          "title": "PILOT by DAY, CODER by NIGHT",
+          "title": "//PILOT by DAY, CODER by NIGHT",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<blockquote>Tired of pointing people around to all of my social media, I finally decided to create a AIO solution! And that is how FPV Landing Pages was born!</blockquote><p>The perfect way to point your \"follower\" in one single direction, and let them choose where they want to see you awesomness from! Insta-Face-Tube!</p>",
+          "text": "<blockquote>&lt;idea&gt; Tired of pointing people around to all of my social media, I finally decided to create a AIO solution! And that is how FPV Landing Pages was born! &lt;/idea&gt;</blockquote><p>&lt;solution&gt; The perfect way to point your \"follower\" in one single direction, and let them choose where they want to see you awesomness from! Insta-Face-Tube! &lt;/solution&gt;</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dexfpv.com\" data-toolbar=\"-mbrBtnMove\">Check my personal Landing Page</a>"
         },
         {
