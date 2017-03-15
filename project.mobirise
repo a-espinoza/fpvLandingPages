@@ -73,7 +73,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FPV Landing <br>Pages<br>.com</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#features1-9\">Pricing</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-c\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-4\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#pricing-table1-3\">Pricing</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-c\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-4\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -82,6 +82,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "autoplay": false,
             "paddingTop": 3,
@@ -106,12 +111,7 @@
             "showBullets": true
           },
           "_anchor": "slider-1",
-          "articleLayout": false,
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [
@@ -199,7 +199,7 @@
           },
           "title1": "CHOOSE:",
           "caption1": "Number 1<br>Pick ONE of the available design LAYOUTS !<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -223,7 +223,7 @@
           },
           "title2": "GET IN TOUCH:",
           "caption2": "Fill out the FORM below with all the required information and links to your social media.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -247,7 +247,7 @@
           },
           "title3": "FILL OUT THE FORM:",
           "caption3": "Make sure to fill all of the required!<br><br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -271,7 +271,7 @@
           },
           "title4": "WAIT FOR IT TO COOK:",
           "caption4": "Our lead programmer along with his minion monkeys will make your AWESOME Landing Page LIVE!",
-          "button4": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"1\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -338,7 +338,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#f97352",
+            "bgColor": "#d14841",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -395,7 +395,8 @@
               "text-align": "center"
             },
             "H3": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "17px"
             }
           },
           "_anchor": "pricing-table1-3",
@@ -421,19 +422,19 @@
             "fourthType": "hidden",
             "fifthType": "hidden"
           },
-          "title1": "Standard Design",
+          "title1": "4S - Standard Design - 60C",
           "currency1": "$",
-          "price1": "80",
+          "price1": "70",
           "period1": "+ domain fee",
           "list1": "<ul><li><b>*Have your very own AIO Landing Page.</b></li><li><b>*Customize: colors, logos, picture, and where to direct your social media traffic.<br></b></li><li><br></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
-          "title2": "Semi-Custom",
+          "title2": "5S - Semi-Custom - 80C",
           "currency2": "$",
           "price2": "120",
           "period2": "+ domain fee",
           "list2": "<ul><li><b>*Want to further customize your Lanfing Page? No problem, get a one on one with our head monkey designer, and get the perfect landing page for your need!</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
-          "title3": "Custom",
+          "title3": "&nbsp;6S - Custom - POWAA",
           "currency3": "$",
           "price3": "200+",
           "period3": "+domain fee",
@@ -470,7 +471,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\nEmail: hello@fpvlandingpages.com<br><br>",
+          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\">dexfpv.com</p><p class=\"mbr-contacts__text\">scudrnr.com</p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -521,7 +522,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#f97352",
+            "bgColor": "#d14841",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
