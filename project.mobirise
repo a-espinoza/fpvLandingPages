@@ -88,15 +88,42 @@
             }
           },
           "_params": {
-            "autoplay": false,
+            "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/dsc00615-2000x1125.jpg",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc00667rawed-2000x1125.jpg",
                 "contentAlign": "center",
                 "overlay": false,
+                "overlayColor": "#222222",
+                "showTitle": true,
+                "title": "FPV Landing Pages",
+                "showText": true,
+                "text": "<i>The perfect way to showcase your all your social media awesomeness</i><br><i> in one &nbsp;place! &nbsp;</i>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#features1-9\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc00672-2000x1125.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "overlayColor": "#222222",
+                "showTitle": true,
+                "title": "FPV Landing Pages",
+                "showText": true,
+                "text": "<i>The perfect way to showcase your all your social media awesomeness</i><br><i> in one &nbsp;place! &nbsp;</i>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"index.html#features1-9\" data-toolbar=\"-mbrBtnMove\">Tell me more!</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/dsc00669-2000x1125.jpg",
+                "contentAlign": "center",
+                "overlay": false,
+                "overlayOpacity": "0.2",
                 "overlayColor": "#222222",
                 "showTitle": true,
                 "title": "FPV Landing Pages",
