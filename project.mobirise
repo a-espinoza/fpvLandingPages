@@ -8,9 +8,9 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 23,
+    "uniqCompNum": 24,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-2.svg",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-black-128x128.png",
     "noImageResize": ""
   },
   "pages": {
@@ -58,7 +58,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-white-1.svg",
+              "src": "@PROJECT_PATH@/assets/images/logo-white-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -73,7 +73,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FPV Landing <br>Pages<br>.com</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#pricing-table1-3\">Pricing</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-c\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-4\">CONTACT</a></li>",
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-c\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#pricing-table1-3\">PRICING</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-4\">CONTACT</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -379,7 +379,7 @@
           "headerAlign": "left",
           "title": "PILOT by DAY, CODER by NIGHT",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Tired of pointing people around all of my social media, I finally decided to create a AIO solution! That is how FPV Landing Pages was born!</p><p>Perfect way to point your \"follower\" in one single direction, and let them choose where they want to see you awesomness from! Insta-Face-Tube!</p>",
+          "text": "<blockquote>Tired of pointing people around to all of my social media, I finally decided to create a AIO solution! And that is how FPV Landing Pages was born!</blockquote><p>The perfect way to point your \"follower\" in one single direction, and let them choose where they want to see you awesomness from! Insta-Face-Tube!</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dexfpv.com\" data-toolbar=\"-mbrBtnMove\">Check my personal Landing Page</a>"
         },
         {
@@ -424,21 +424,21 @@
           },
           "title1": "4S - Standard Design - 60C",
           "currency1": "$",
-          "price1": "70",
+          "price1": "60",
           "period1": "+ domain fee",
-          "list1": "<ul><li><b>*Have your very own AIO Landing Page.</b></li><li><b>*Customize: colors, logos, picture, and where to direct your social media traffic.<br></b></li><li><br></li></ul>",
+          "list1": "<ul><li><b>*Have your very own&nbsp;</b><b>AIO&nbsp;</b><b>Landing Page.</b></li><li><b>*Customize: colors, logos, picture, and where to direct your social media traffic.</b></li><li><b>*2 revisions.</b></li><li><b><br></b></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title2": "5S - Semi-Custom - 80C",
           "currency2": "$",
-          "price2": "120",
+          "price2": "100",
           "period2": "+ domain fee",
-          "list2": "<ul><li><b>*Want to further customize your Lanfing Page? No problem, get a one on one with our head monkey designer, and get the perfect landing page for your need!</b></li></ul>",
+          "list2": "<ul><li><b>*Want to further customize your Landing Page? No problem, get a one on one with our head monkey designer, and get the perfect landing page for your need!</b></li><li><b>*Includes 2 revisions after one on one!</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title3": "&nbsp;6S - Custom - POWAA",
           "currency3": "$",
           "price3": "200+",
           "period3": "+domain fee",
-          "list3": "<ul><li><b>This is for the more complicate, &nbsp;</b><b>and fully customized landing pages. &nbsp;</b><b>For this category, we will send you a &nbsp;</b><b>custom quote according to your needs.</b></li></ul>",
+          "list3": "<ul><li><b>This is for the more complicate, &nbsp;</b><b>and fully customized landing pages. &nbsp;</b><b>For this category, we will send you a &nbsp;</b><b>custom quote according to your needs.</b></li><li><b><br></b></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
