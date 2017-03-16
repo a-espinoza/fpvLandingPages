@@ -1,0 +1,43 @@
+/*color Picker
+http://jsfiddle.net/jGb33/1/
+http://www.eyecon.ro/colorpicker/#about
+
+*/
+
+/*#div1, #div2 {
+    float: left;
+    width: 400px;
+    height: 400px;
+    margin: 30px;
+    padding: 30px;
+    border: 3px solid black;
+}*/
+
+.main-box{
+  float:left;
+  height:70vh;
+  width: 35vw;
+  max-height: 70%;
+  max-width: 35%;
+  border: 5px solid blue;
+}
+
+.options-box{
+  float:right;
+  height:70vh;
+  width: 35vw;
+  margin-right:5%;
+  max-height: 70%;
+  max-width: 30%;
+  border: 5px solid red;
+}
+
+.img-size{
+  display:block;
+}
+
+
+#full{
+ background-color: #red;
+ border: 5px solid green;
+}

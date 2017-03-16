@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>BETA Builder V1</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+  <script type="text/javascript" src="assets/js/main.js">
+
+  </script>
+</head>
+<body>
+
+  <h2>Drag and Drop Builder Beta Feature</h2>
+  <h3>fpvLangindPaeges.com</h3>
+
+<div id="main-box" class="main-box" ondrop="drop(event)" ondragover="allowDrop(event)">
+  <form method="post" action=""><!-- Color picker feature -->
+      <label for="bg2">Background:</label>
+      <input type="color" class="theme" id="bg2" onchange="javascript:document.getElementById('main-box').style.backgroundColor=document.getElementById('bg2').value;"/>
+
+  </form> <!-- END color picker feature -->
+    <div id="header1" >
+      <img class="img-size" src="assets/images/header1.png" draggable="true" ondragstart="drag(event)" id="drag1" width="100%" height="auto" object-fit= "contain">
+    </div>
+</div>
+
+<div id="box2" class="options-box" ondrop="drop(event)" ondragover="allowDrop(event)">
+
+</div>
+
+
+
+
+
+
+
+<!-- <body id="full1">
+    <form method="post" action="">
+        <label for="bg2">Background:</label>
+        <input type="color" class="theme" id="bg2" onchange="javascript:document.getElementById('full').style.backgroundColor=document.getElementById('bg2').value;"/>
+        (with javascript)
+    </form>
+</body> -->
+
+
+
+
+
+
+
+
+
+  <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="assets/images/img1.png" draggable="true" ondragstart="drag(event)" id="drag1" width="398" height="398">
+  </div>
+
+  <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<!-- Live Reload Script(Local) -->
+  <script src="http://localhost:49664/livereload.js"></script>
+</body>
+</html>
