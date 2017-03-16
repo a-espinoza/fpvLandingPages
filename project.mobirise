@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FPV Landing Pages",
-    "currentPage": "index.html",
+    "currentPage": "steps.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -21,7 +21,8 @@
         "meta_descr": "Home for the best FPV and Social Media Landing Pages in the interwebz :)",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "order": 1
       },
       "components": [
         {
@@ -562,7 +563,8 @@
     "form.html": {
       "settings": {
         "title": "Form",
-        "meta_descr": ""
+        "meta_descr": "",
+        "order": 3
       },
       "components": [
         {
@@ -699,7 +701,8 @@
     "steps.html": {
       "settings": {
         "title": "FLP Steps",
-        "meta_descr": "FPV Landing pages steps! Easy as 1..2..3..."
+        "meta_descr": "FPV Landing pages steps! Easy as 1..2..3...",
+        "order": 2
       },
       "components": [
         {
@@ -797,11 +800,15 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/bm-bro-600x600.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/awcfi4XRwgA",
+              "src": "https://www.youtube.com/watch?v=gWe5iR2rNnE",
               "class": "mbr-figure__img",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -812,7 +819,7 @@
           "title": "Step 1: Get your Custom Domain",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>In this video, I explain how to get your custom domain, and set the required permission for FPV Landing Pages to upload your website.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https:/domain.google.com\" data-toolbar=\"-mbrBtnMove\">Google Domain</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://domains.google\" data-toolbar=\"-mbrBtnMove\">Google Domain</a>"
         },
         {
           "_tags": [
