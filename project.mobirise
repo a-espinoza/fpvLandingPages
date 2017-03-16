@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "FPV Landing Pages",
-    "currentPage": "index.html",
+    "currentPage": "steps.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-black-128x128.png",
     "noImageResize": ""
@@ -50,7 +50,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "color": "#d14841",
+            "color": "#b8312f",
             "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
@@ -718,10 +718,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#d14841"
+              "background": "#b8312f"
             },
             ".mbr-navbar__section": {
-              "background": "#d14841"
+              "background": "#b8312f"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -733,7 +733,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-g",
           "_params": {
-            "color": "#eb6b56",
+            "color": "#b8312f",
             "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,
@@ -825,7 +825,71 @@
           "title": "Step 1: Get your Custom Domain",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>In this video, I explain how to get your custom domain, and set the required permission for FPV Landing Pages to upload your website.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://domains.google\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Domain</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://domains.google\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Google Domain</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-p",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#3c3c3c",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "file:///Users/MSI-MAC/Library/Application%20Support/Mobirise.com/Mobirise/projectData/bm_bro-600x600.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/-0P_vFiTSHM",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "headerAlign": "left",
+          "title": "Instagram Feature:&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>In this video, I explain how to get your Instagram Token and Instagram User ID. Pleas send this info to hello@fpvlandingpages.com.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"http://instagram.pixelunion.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get Token</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://smashballoon.com/instagram-feed/find-instagram-user-id/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get User ID</a> "
         },
         {
           "_tags": [
