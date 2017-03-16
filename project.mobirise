@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FPV Landing Pages",
-    "currentPage": "steps.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -35,10 +35,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#eb6b56"
+              "background": "#d14841"
             },
             ".mbr-navbar__section": {
-              "background": "#eb6b56"
+              "background": "#d14841"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -411,7 +411,7 @@
           "title": "//PILOT by DAY, CODER by NIGHT",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<blockquote>&lt;idea&gt; Tired of pointing people around to all of my social media, I finally decided to create a AIO solution! And that is how FPV Landing Pages was born! &lt;/idea&gt;</blockquote><p>&lt;solution&gt; The perfect way to point your \"follower\" in one single direction, and let them choose where they want to see you awesomness from! Insta-Face-Tube! &lt;/solution&gt;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"dexfpv.com\" data-toolbar=\"-mbrBtnMove\">Check my personal Landing Page</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://dexfpv.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check my personal Landing Page</a>"
         },
         {
           "_tags": [
@@ -458,19 +458,19 @@
           "price1": "60",
           "period1": "+ domain fee",
           "list1": "<ul><li><b>*Have your very own&nbsp;</b><b>AIO&nbsp;</b><b>Landing Page.</b></li><li><b>*Customize: colors, logos, picture, and where to direct your social media traffic.</b></li><li><b>*Includes 2 revisions.</b></li><li><b><br></b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://scudrnr.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://scudrnr.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a>",
           "title2": "5S - Semi-Custom - 80C",
           "currency2": "$",
           "price2": "100",
           "period2": "+ domain fee",
           "list2": "<ul><li><b>*Want to further customize your Landing Page? No problem, get a one on one with our head monkey designer, and get the perfect landing page for your need!</b></li><li><b>*Includes 2 revisions after one on one!</b></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://fpvlp.github.io/elVerdeFPV/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://fpvlp.github.io/elVerdeFPV/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a>",
           "title3": "&nbsp;6S - Custom - POWAA",
           "currency3": "$",
           "price3": "200+",
           "period3": "+domain fee",
           "list3": "<ul><li><b>This is for the more complicate, &nbsp;</b><b>and fully customized WEBSITE. &nbsp;</b><b>For this category, we will send you a &nbsp;</b><b>custom quote according to your needs.</b></li><li><b><br></b></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://fpvlp.github.io/nytFury/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://fpvlp.github.io/nytFury/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a>",
           "title4": "ULTIMATE",
           "currency4": "$",
           "price4": "0",
@@ -718,10 +718,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#eb6b56"
+              "background": "#d14841"
             },
             ".mbr-navbar__section": {
-              "background": "#eb6b56"
+              "background": "#d14841"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
