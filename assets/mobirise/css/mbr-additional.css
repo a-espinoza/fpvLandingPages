@@ -2,10 +2,10 @@
   font-size: 16px;
 }
 #ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #d14841;
+  background: #b8312f;
 }
 #ext_menu-0 .mbr-navbar__section {
-  background: #d14841;
+  background: #b8312f;
 }
 #ext_menu-0 .mbr-navbar__hamburger {
   color: #ffffff;
@@ -29,6 +29,9 @@
 #msg-box4-c .mbr-article {
   color: #ffffff;
 }
+#header3-r P {
+  color: #27aae0;
+}
 #pricing-table1-3 .mbr-plan__details UL {
   text-align: center;
 }
@@ -38,6 +41,9 @@
 #pricing-table1-3 H3 {
   text-align: center;
   font-size: 17px;
+}
+#header3-q P {
+  color: #e25041;
 }
 #footer1-6 P {
   color: #ffffff;

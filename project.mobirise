@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "FPV Landing Pages",
-    "currentPage": "steps.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 28,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-black-128x128.png",
     "noImageResize": ""
@@ -35,10 +35,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#d14841"
+              "background": "#b8312f"
             },
             ".mbr-navbar__section": {
-              "background": "#d14841"
+              "background": "#b8312f"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -230,7 +230,7 @@
           },
           "title1": "PICK:",
           "caption1": "Number 1<br>Let's get a custom domain, and set it up!<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Watch Video!</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"steps.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Watch Video!</a>",
           "media2": {
             "image": {
               "active": true,
@@ -254,7 +254,7 @@
           },
           "title2": "GET IN TOUCH:",
           "caption2": "Send us your info , and we will start setting up your new Landing Page!<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://mailto:hello@fpvlandingpages.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">email the  coding monkey</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"mailto:hello@fpvlandingpages.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">email the  coding monkey</a>",
           "media3": {
             "image": {
               "active": true,
@@ -302,7 +302,7 @@
           },
           "title4": "WAIT FOR IT TO COOK:",
           "caption4": "Our lead programmer along with his minion monkeys will finish your AWESOME Landing Page and make it go LIVE!",
-          "button4": "<a data-app-btn=\"true\" href=\"http://dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Awesome LP!</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"http://dexfpv.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Awesome LP!</a>",
           "media5": {
             "image": {
               "active": true,
@@ -417,6 +417,23 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header3",
+          "_anchor": "header3-r",
+          "title": "Act FAST and catch our INAGURATION's SALE prices!<br>",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Inauguration price applies for the first 100 Landing Pages!",
+          "_styles": {
+            "P": {
+              "color": "#27aae0"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "pricing-table1",
           "_styles": {
             ".mbr-plan__details UL": {
@@ -433,7 +450,7 @@
           "_anchor": "pricing-table1-3",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
@@ -456,19 +473,19 @@
           "title1": "4S - Standard Design - 60C",
           "currency1": "$",
           "price1": "60",
-          "period1": "+ domain fee",
+          "period1": "+ domain fee<br>Normal price: $80<br>",
           "list1": "<ul><li><b>*Have your very own&nbsp;</b><b>AIO&nbsp;</b><b>Landing Page.</b></li><li><b>*Customize: colors, logos, picture, and where to direct your social media traffic.</b></li><li><b>*Includes 2 revisions.</b></li><li><b><br></b></li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"http://scudrnr.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a>",
           "title2": "5S - Semi-Custom - 80C",
           "currency2": "$",
           "price2": "100",
-          "period2": "+ domain fee",
+          "period2": "+ domain fee<br>Normal Price: &nbsp;$120<br>",
           "list2": "<ul><li><b>*Want to further customize your Landing Page? No problem, get a one on one with our head monkey designer, and get the perfect landing page for your need!</b></li><li><b>*Includes 2 revisions after one on one!</b></li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://fpvlp.github.io/elVerdeFPV/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a>",
           "title3": "&nbsp;6S - Custom - POWAA",
           "currency3": "$",
           "price3": "200+",
-          "period3": "+domain fee",
+          "period3": "+domain fee<br><br>",
           "list3": "<ul><li><b>This is for the more complicate, &nbsp;</b><b>and fully customized WEBSITE. &nbsp;</b><b>For this category, we will send you a &nbsp;</b><b>custom quote according to your needs.</b></li><li><b><br></b></li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"https://fpvlp.github.io/nytFury/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DEMO LINK</a>",
           "title4": "ULTIMATE",
@@ -488,6 +505,23 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header3",
+          "_anchor": "header3-q",
+          "title": "All Version 1 clients will be automatically rolled over to V2 for free.",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "V1 clients are all clients that get their Landing page before June 1st.<br>V2 will include performance&nbsp;aesthetic improvements.",
+          "_styles": {
+            "P": {
+              "color": "#e25041"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts3",
           "_anchor": "contacts3-4",
           "_params": {
@@ -502,8 +536,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"http://mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\">dexfpv.com</p><p class=\"mbr-contacts__text\">scudrnr.com</p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"http://dexfpv.com\" target=\"_blank\">dexfpv.com</a></p><p class=\"mbr-contacts__text\"><a href=\"http://scudrnr.com\" target=\"_blank\">scudrnr.com</a></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "hello@fpvlandingpages.com",
@@ -640,8 +674,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"http://mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\">dexfpv.com</p><p class=\"mbr-contacts__text\">scudrnr.com</p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"http://dexfpv.com\" target=\"_blank\">dexfpv.com</a></p><p class=\"mbr-contacts__text\"><a href=\"http://scudrnr.com\" target=\"_blank\">scudrnr.com</a></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "a_espinosa@live.com",
@@ -909,8 +943,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"http://mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\">dexfpv.com</p><p class=\"mbr-contacts__text\">scudrnr.com</p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
+          "text1": "<strong>ADDRESS</strong><br>Northern Virginia, <br>22101, USA<br><br>\n<strong>CONTACTS</strong><br>\n<a href=\"mailto:hello@fpvlandingpages.com\">Email: hello@fpvlandingpages.com</a><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><p class=\"mbr-contacts__text\"><a href=\"http://dexfpv.com\" target=\"_blank\">dexfpv.com</a></p><p class=\"mbr-contacts__text\"><a href=\"http://scudrnr.com\" target=\"_blank\">scudrnr.com</a></p><ul class=\"mbr-contacts__list\"><li><br></li><li><br></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "a_espinosa@live.com",
