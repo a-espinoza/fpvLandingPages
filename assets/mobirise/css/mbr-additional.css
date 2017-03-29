@@ -1,71 +1,136 @@
-#ext_menu-0 .mbr-brand__name {
-  font-size: 16px;
+
+#ext_menu-0 {
+.mbr-brand__name {
+	font-size: 16px;
 }
-#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #b8312f;
+&.mbr-navbar--stuck .mbr-navbar__section {
+	background: #b8312f;
 }
-#ext_menu-0 .mbr-navbar__section {
-  background: #b8312f;
+.mbr-navbar__section {
+	background: #b8312f;
 }
-#ext_menu-0 .mbr-navbar__hamburger {
-  color: #ffffff;
+.mbr-navbar__hamburger {
+	color: #ffffff;
 }
-#ext_menu-0 .mbr-navbar__items a {
-  font-size: 14px;
+.mbr-navbar__items a {
+	font-size: 14px;
 }
-#slider-1 H1 {
-  color: #ffffff;
+.navbar-toggler {
+	color: #ffffff;
 }
-#features1-9 P {
-  text-align: center;
-  color: #f97352;
+.close-icon::before, .close-icon::after {
+	background-color: #ffffff;
 }
-#msg-box4-c .mbr-header__text {
-  color: #ffffff;
+.link, .dropdown-item {
+	color: #ffffff;
 }
-#msg-box4-c .mbr-header__subtext {
-  color: #ffffff;
+.link {
+	font-size: 0.75rem;
 }
-#msg-box4-c .mbr-article {
-  color: #ffffff;
+.dropdown-item, .nav-dropdown-sm .link {
+	font-size: 0.812rem;
 }
-#header3-r P {
-  color: #27aae0;
+.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {
+	color: @primaryColor;
 }
-#pricing-table1-3 .mbr-plan__details UL {
-  text-align: center;
+.link[aria-expanded="true"], .dropdown-menu {
+	background: #0e0e0e;
 }
-#pricing-table1-3 UL {
-  text-align: center;
+.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {
+	background: #202020!important;
 }
-#pricing-table1-3 H3 {
-  text-align: center;
-  font-size: 17px;
+.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded="true"], .nav-dropdown-sm .dropdown-menu {
+	background: #282828;
 }
-#header3-q P {
-  color: #e25041;
+.bg-color.transparent .link {
+	color: #ffffff;
+	transition: none;
 }
-#footer1-6 P {
-  color: #ffffff;
-  text-align: center;
-  font-size: 15px;
+.bg-color.transparent.opened .link {
+	transition: color .2s ease-in-out;
 }
-#ext_menu-d .mbr-brand__name {
-  font-size: 16px;
+.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {
+	color: @primaryColor;
 }
-#ext_menu-d.mbr-navbar--stuck .mbr-navbar__section {
-  background: #eb6b56;
+.link[aria-expanded="true"], .dropdown-item[aria-expanded="true"] {
+	color: #c0a375!important;
 }
-#ext_menu-d .mbr-navbar__section {
-  background: #eb6b56;
 }
-#ext_menu-d .mbr-navbar__hamburger {
-  color: #ffffff;
+
+#slider-1 {
+H1 {
+	color: #ffffff;
 }
-#footer1-f P {
-  color: #ffffff;
-  text-align: center;
-  font-size: 15px;
+}
+
+#social-buttons1-2 {
+}
+
+#features1-9 {
+P {
+	text-align: center;
+	color: #e25041;
+}
+.striped .mbr-cards-col:nth-child(2n+1) {
+	background-color: #2e2e2e;
+}
+}
+
+#msg-box4-c {
+.mbr-header__text {
+	color: #ffffff;
+}
+.mbr-header__subtext {
+	color: #ffffff;
+}
+.mbr-article {
+	color: #ffffff;
+}
+.mbr-article P {
+	color: #ffffff;
+}
+.mbr-article BLOCKQUOTE {
+	color: #ffffff;
+}
+}
+
+#header3-r {
+P {
+	color: #27aae0;
+}
+}
+
+#pricing-table1-3 {
+.mbr-plan__details UL {
+	text-align: center;
+}
+UL {
+	text-align: center;
+}
+H3 {
+	text-align: center;
+	font-size: 17px;
+}
+}
+
+#header3-q {
+P {
+	color: #e25041;
+}
+}
+
+#social-buttons2-s {
+}
+
+#contacts3-4 {
+}
+
+#footer1-6 {
+P {
+	color: #ffffff;
+	text-align: center;
+	font-size: 15px;
+}
 }
 #ext_menu-g .mbr-brand__name {
   font-size: 16px;
@@ -101,6 +166,43 @@
   color: #ffffff;
 }
 #footer1-i P {
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+}
+#ext_menu-t .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #b8312f;
+}
+#ext_menu-t .mbr-navbar__section {
+  background: #b8312f;
+}
+#ext_menu-t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-t .mbr-navbar__items a {
+  font-size: 14px;
+}
+#footer1-v P {
+  color: #ffffff;
+  text-align: center;
+  font-size: 15px;
+}
+#ext_menu-d .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #eb6b56;
+}
+#ext_menu-d .mbr-navbar__section {
+  background: #eb6b56;
+}
+#ext_menu-d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#footer1-f P {
   color: #ffffff;
   text-align: center;
   font-size: 15px;

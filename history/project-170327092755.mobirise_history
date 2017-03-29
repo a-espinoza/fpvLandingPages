@@ -1,21 +1,18 @@
 {
   "settings": {
     "name": "FPV Landing Pages",
-    "currentPage": "steps.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-black-128x128.png",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-96011488-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
-    "publishFtpPath": "public_html",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-96011488-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -92,16 +89,20 @@
             }
           },
           "_name": "ext.menu",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
           "_anchor": "ext_menu-0",
           "_params": {
-            "color": "#b8312f",
-            "hamburgerColor": "#ffffff",
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "collapsed": false,
             "logo": true,
             "showBrand": false,
-            "showButtons": true
+            "collapsed": false,
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -121,8 +122,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"#top\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">FPV Landing <br>Pages<br>.com</a>",
-          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">&lt;-</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-c\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#pricing-table1-3\">PRICING</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-4\">CONTACT</a></li>",
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Sign in</a></li>"
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">&lt;-</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-c\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#pricing-table1-3\">PRICING</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts3-4\">CONTACT</a></li>"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -139,13 +139,14 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
+            "timeout": 5,
             "slides": [
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dsc00667rawed-2000x1125.jpg",
-                "contentAlign": "center",
                 "overlay": false,
                 "overlayColor": "#222222",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "FPV Landing Pages",
                 "showText": true,
@@ -156,9 +157,9 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/dsc00672-2000x1125.jpg",
-                "contentAlign": "center",
                 "overlay": false,
                 "overlayColor": "#222222",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "FPV Landing Pages",
                 "showText": true,
@@ -169,10 +170,10 @@
               {
                 "active": true,
                 "image": "@PROJECT_PATH@/assets/images/dsc00669-2000x1125.jpg",
-                "contentAlign": "center",
                 "overlay": false,
                 "overlayOpacity": "0.2",
                 "overlayColor": "#222222",
+                "contentAlign": "center",
                 "showTitle": true,
                 "title": "FPV Landing Pages",
                 "showText": true,
@@ -205,11 +206,11 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "counters": true,
             "facebook": true,
+            "twitter": true,
             "google": true,
-            "twitter": true
+            "vkontakte": false,
+            "odnoklassniki": false
           },
           "text": "SHARE THIS PAGE!"
         },
@@ -221,20 +222,24 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "color": "#e25041"
+              "color": "#f97352"
             },
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
             }
           },
+          "headerAlign": "left",
+          "header": "DROP-DEAD EASY WEBSITE MAKER",
+          "subheader": "By John Smith posted July 30, 2015",
           "_anchor": "features1-9",
           "_params": {
+            "columnsColor": "#2e2e2e",
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "images/bg3.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#fff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -243,17 +248,13 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showHeader": false,
-            "showSubheader": false,
             "columns": 4,
             "showImages": true,
             "showTitles": true,
-            "showCaptions": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
             "showButtons": true
           },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
           "media1": {
             "image": {
               "active": true,
@@ -405,22 +406,19 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "color": "#ffffff"
-            },
-            ".mbr-article BLOCKQUOTE": {
-              "color": "#ffffff"
             }
           },
           "_name": "msg-box4",
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://dexfpv.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check my personal Landing Page</a>",
           "_anchor": "msg-box4-c",
           "_params": {
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgImageRadio": false,
             "parallax": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc00668-2000x1125.jpg",
             "bgColor": "#d14841",
             "bgColorRadio": true,
@@ -433,7 +431,6 @@
             "overlayColor": "#222",
             "inverse": false,
             "showTitle": true,
-            "showMeta": false,
             "showText": true,
             "showButtons": true
           },
@@ -460,11 +457,8 @@
               "size": 0
             }
           },
-          "headerAlign": "left",
           "title": "//PILOT by DAY, CODER by NIGHT",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<blockquote>&lt;idea&gt; Tired of pointing people around to all of my social media, I finally decided to create a AIO solution! And that is how FPV Landing Pages was born! &lt;/idea&gt;</blockquote><p>&lt;solution&gt; The perfect way to point your \"follower\" in one single direction, and let them choose where they want to see you awesomness from! Insta-Face-Tube! &lt;/solution&gt;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"http://dexfpv.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Check my personal Landing Page</a>"
+          "text": "<blockquote>&lt;idea&gt; Tired of pointing people around to all of my social media, I finally decided to create a AIO solution! And that is how FPV Landing Pages was born! &lt;/idea&gt;</blockquote><p>&lt;solution&gt; The perfect way to point your \"follower\" in one single direction, and let them choose where they want to see you awesomness from! Insta-Face-Tube! &lt;/solution&gt;</p>"
         },
         {
           "_tags": [
@@ -477,11 +471,14 @@
             }
           },
           "_anchor": "header3-r",
-          "title": "Act FAST and catch our &nbsp; &nbsp;<i>LAUNCH</i> SALE prices!<br>",
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
             "showMeta": true
           },
-          "meta": "LAUNCH Prices apply to the first 60 Landing Pages!"
+          "title": "Act FAST and catch our &nbsp; &nbsp;<i>LAUNCH</i> SALE prices!<br>",
+          "meta": "LAUNCH Prices apply to the first 100 Landing Pages!"
         },
         {
           "_tags": [
@@ -500,6 +497,12 @@
               "font-size": "17px"
             }
           },
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
           "_anchor": "pricing-table1-3",
           "_params": {
             "paddingTop": "1",
@@ -516,12 +519,13 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
             "firstType": "blue",
             "showButtons": true,
             "secondType": "green",
             "thirdType": "orange",
-            "fourthType": "hidden",
-            "fifthType": "hidden"
+            "fourthType": "hidden"
           },
           "title1": "4S - Standard Design - 60C",
           "currency1": "$",
@@ -546,13 +550,7 @@
           "price4": "0",
           "period4": "per month",
           "list4": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>1 TB</b> Bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title5": "EXTENDED",
-          "currency5": "$",
-          "price5": "0",
-          "period5": "per month",
-          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>"
         },
         {
           "_tags": [
@@ -565,10 +563,13 @@
             }
           },
           "_anchor": "header3-q",
-          "title": "All Version 1 clients will be automatically rolled over to V2 for free.",
           "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
             "showMeta": true
           },
+          "title": "All Version 1 clients will be automatically rolled over to V2 for free.",
           "meta": "V1 clients are all clients that get their Landing page before June 1st.<br>V2 will include performance, and aesthetic improvements."
         },
         {
@@ -1109,7 +1110,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-d",
           "_params": {
-            "color": "#b8312f",
+            "color": "#eb6b56",
             "hamburgerColor": "#ffffff",
             "transparent": false,
             "sticky": true,

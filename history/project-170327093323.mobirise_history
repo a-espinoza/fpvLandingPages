@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "FPV Landing Pages",
-    "currentPage": "steps.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 34,
+    "uniqCompNum": 33,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/logo-black-128x128.png",
     "noImageResize": "",
